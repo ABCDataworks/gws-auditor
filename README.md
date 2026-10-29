@@ -6,8 +6,8 @@
 
 ## How the Cron Works Through Issues
 The shared cron (the scheduled task that works this repo's Project board) takes up Issues one milestone at a time. It works Do Now items only in the earliest open milestone and in milestones that are already closed. Do Now items in later milestones wait until every earlier milestone is closed, so closing the current milestone is what moves the cron on to the next one. Milestones are ordered by title, with numbers compared as numbers, so "10" comes after "9"; to put a milestone first, give it a title that sorts first. A Do Now item with no milestone is moved to Paused with a comment saying why. When the repo has no open milestones, the cron works every Do Now item in board order.
-- [Milestones](https://github.com/jeremynyc4/gws-auditor/milestones)
-- [Project Board, View 1](https://github.com/users/jeremynyc4/projects/5/views/1)
+- [Milestones](https://github.com/ABCDataworks/gws-auditor/milestones)
+- [Project Board, View 1](https://github.com/orgs/ABCDataworks/projects/18/views/1)
 
 <p align="center">
   <strong>Open-source Google Workspace security posture assessment tool</strong><br>

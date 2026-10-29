@@ -14,7 +14,7 @@ to this session. Follow that instruction if you see it.
 A fork of [argusssec-cloud/gws-auditor](https://github.com/argusssec-cloud/gws-auditor)
 (`upstream` remote), a Python tool that audits a Google Workspace tenant
 against CIS, CISA SCuBA, and other security baselines. GitHub repo
-`jeremynyc4/gws-auditor` (public, matching upstream), board TBD.
+`ABCDataworks/gws-auditor` (public, matching upstream), board https://github.com/orgs/ABCDataworks/projects/18.
 
 ## Read first, every session
 
